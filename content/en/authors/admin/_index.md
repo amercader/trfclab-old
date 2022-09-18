@@ -68,10 +68,8 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
-# This is needed for the user to show up in the Teams widget
-authors:
- - admin
 
+# This is needed for the user to show up in the Teams widget
 user_groups:
  - Principal Investigator
 
