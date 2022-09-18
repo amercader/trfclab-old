@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Tissue Regeneration, Fibrosis and Cancer Lab"
+title = "Tissue Remodelling, Fibrosis and Cancer Lab"
 subtitle = ""
 
 [design]

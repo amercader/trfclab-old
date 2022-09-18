@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Anna Moles Fernández
+title: Maria Fernández Fernández
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
-role: Principal Investigator
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Tenured Scientist IIBB - CSIC
+  - name: IIBB - CSIC
     url: https://www.iibb.csic.es/en/research/1681
 
 # Short bio (displayed in user profile at end of posts)
@@ -42,16 +42,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: maria.fernandez@iibb.csic.es
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -68,13 +62,13 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
 # This is needed for the user to show up in the Teams widget
 authors:
- - admin
+ - maria
 
 user_groups:
- - Principal Investigator
-
+ - PhD Students
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
