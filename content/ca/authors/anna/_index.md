@@ -70,7 +70,7 @@ email: ''
 highlight_name: true
 # This is needed for the user to show up in the Teams widget
 authors:
- - admin
+ - anna
 
 user_groups:
  - Investigadora principal
