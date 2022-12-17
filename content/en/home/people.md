@@ -5,7 +5,7 @@ active: true
 
 title: Team
 
-weight: 16
+weight: 17
 
 # ... Put Your Section Options Here (title etc.) ...
 
